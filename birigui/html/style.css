@@ -1,0 +1,41 @@
+.header{
+    background-color: #603B97;
+    height: 350px;
+    display: grid;
+    grid-template-rows: 4fr 4fr 1fr;
+    
+}
+.header img{
+    width: 70px;
+    padding: 5px;
+}
+.textoheader{
+    text-align: center;
+}
+.sp{
+    text-align: center;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    flex-wrap: wrap;
+}
+
+body{
+    width: auto;
+}
+
+.lg{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.ts{
+    padding: 20px;
+}
+
+.lg img{
+    width: 300px;
+    padding: 30px;
+}
+
